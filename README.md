@@ -1,2 +1,2 @@
 # pawn-game
-Small code challenge I came accross recently.
+Small code challenge I came across recently
