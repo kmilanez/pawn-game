@@ -1,2 +1,2 @@
 # pawn-game
-Small code challenge asked in a recent tech interview.
+Just because I could not sleep before implementing it
